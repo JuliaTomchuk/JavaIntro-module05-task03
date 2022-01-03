@@ -9,7 +9,7 @@ import my.home.oop.task03.entity.Calendar.Month.Week;
 import my.home.oop.task03.logic.CalendarLogic;
 import my.home.oop.task03.entity.Calendar;
 
-/*Создать Класс календарь с внутренним классом.С помощью которого можно хранить информацию о выходных и праздничных днях*/
+/*РЎРѕР·РґР°С‚СЊ РљР»Р°СЃСЃ РєР°Р»РµРЅРґР°СЂСЊ СЃ РІРЅСѓС‚СЂРµРЅРЅРёРј РєР»Р°СЃСЃРѕРј.РЎ РїРѕРјРѕС‰СЊСЋ РєРѕС‚РѕСЂРѕРіРѕ РјРѕР¶РЅРѕ С…СЂР°РЅРёС‚СЊ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ РІС‹С…РѕРґРЅС‹С… Рё РїСЂР°Р·РґРЅРёС‡РЅС‹С… РґРЅСЏС…*/
 public class Main {
 
 	public static void main(String[] args) {
